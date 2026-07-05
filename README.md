@@ -34,3 +34,23 @@ An AI-powered Flutter app that ensures your workout never gets derailed. When a 
 
 ## Architecture
 
+Flutter App
+↓
+Manus AI Service (async task API)
+├─ task.create (send prompt)
+├─ task.detail (poll status)
+└─ task.listMessages (fetch result)
+↓
+Manus AI Backend
+├─ Plan B alternative generation
+├─ Routine generation
+├─ Vision routine extraction
+└─ Structured JSON responses
+
+
+## Getting Started
+
+```bash
+cd planb_fit_refactor
+flutter pub get
+flutter run
