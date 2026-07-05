@@ -60,32 +60,6 @@ flutter pub get
 flutter run
 ```
 
-## Project Structure
-lib/
-├── core/
-│   ├── services/
-│   │   ├── ai_service.dart       # Manus AI API integration
-│   │   └── storage_service.dart  # Local persistence
-│   └── theme/
-│       └── app_theme.dart        # Dark cyberpunk theme
-├── models/
-│   ├── workout_routine.dart
-│   ├── exercise.dart
-│   └── user_profile.dart
-├── providers/
-│   ├── routine_provider.dart     # Routine state management
-│   ├── plan_b_provider.dart      # Plan B generator state
-│   └── user_provider.dart        # User profile state
-├── screens/
-│   ├── home/
-│   ├── routine/
-│   │   ├── ai_routine_generator_screen.dart
-│   │   └── routine_editor_screen.dart
-│   ├── plan_b/
-│   └── gym_dashboard/
-└── widgets/
-    ├── loading/
-    └── cards/
 
 ## API Integration
 The app uses Manus AI's async task API for production-ready mobile integration:
