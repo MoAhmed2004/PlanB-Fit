@@ -50,7 +50,7 @@ Flutter App
 ## 🚀 Getting Started
 
 ```bash
-cd planb_fit_refactor
+cd planb_fit
 flutter pub get
 flutter run
 ```
