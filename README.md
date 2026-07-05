@@ -47,7 +47,7 @@ Flutter App
               └── Structured JSON responses
 ```
 
-## Getting Started
+## 🚀 Getting Started
 
 ```bash
 cd planb_fit_refactor
@@ -56,7 +56,7 @@ flutter run
 ```
 
 
-## API Integration
+## 🔗 API Integration
 The app uses Manus AI's async task API for production-ready mobile integration:
 
 *  task.create — Send a structured prompt with user constraints
@@ -67,7 +67,7 @@ The app uses Manus AI's async task API for production-ready mobile integration:
 
 This pattern avoids timeouts on mobile and works offline-first.
 
-## Future Roadmap
+## 🗺️ Future Roadmap
 
 [ ] Google Calendar auto-scheduling
 
