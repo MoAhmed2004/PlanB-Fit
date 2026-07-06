@@ -8,7 +8,8 @@
 
 ---
 
-### YOU SHOULD HAVE A MANUS API KEY
+> 🛑 **IMPORTANT: YOU MUST HAVE A MANUS API KEY TO RUN THIS APP.**  
+> *Please check the [Getting Started](#-getting-started) section below for configuration instructions.*
 
 ## ✨ What It Does
 
