@@ -58,13 +58,23 @@ To run this project, you will need your own Manus AI API key.
    ```bash
    git clone [https://github.com/MoAhmed2004/PlanB-Fit.git](https://github.com/MoAhmed2004/PlanB-Fit.git)
     ```
+2. **Get dependencies:**
+
 ```bash
 cd planb_fit
 flutter pub get
+```
+3. **Configure the API Key:**
+   Navigate to your AI service file (e.g., `lib/core/services/ai_service.dart`) and insert your Manus AI API key:
+   ```dart
+   // Replace with your actual API key
+   final String apiKey = 'YOUR_MANUS_API_KEY_HERE';
+   ``` 
+4. **Run the app:**
+
+```Bash
 flutter run
 ```
-
-
 ## 🔗 API Integration
 The app uses Manus AI's async task API for production-ready mobile integration:
 
