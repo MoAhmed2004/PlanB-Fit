@@ -57,7 +57,6 @@ To run this project, you will need your own Manus AI API key.
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/MoAhmed2004/PlanB-Fit.git](https://github.com/MoAhmed2004/PlanB-Fit.git)
-   cd PlanB-Fit
     ```
 ```bash
 cd planb_fit
