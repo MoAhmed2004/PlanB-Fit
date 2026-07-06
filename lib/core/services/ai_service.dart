@@ -185,7 +185,7 @@ Schema:
       body: jsonEncode({
         'message': {'content': prompt}
       }),
-    ).timeout(const Duration(seconds: 15));
+    ).timeout(const Duration(seconds: 60));
 
     final data = _parseManusResponse(response);
     final taskId = data['task_id'] ?? data['id'] ?? data['taskId'];
