@@ -55,6 +55,13 @@ Flutter App
 ### Prerequisites 
 To run this project, you will need your own Manus AI API key. 
 
+**How to get your Manus API Key:**
+1. Go to [manus.im](https://manus.im) and log in to your account.
+2. Open your **Settings**.
+3. From the left sidebar, select **Integrations**.
+4. Click on **Build with Manus API**.
+5. Create a new API key and copy it.
+
 ### Installation
 
 1. **Clone the repository:**
