@@ -8,6 +8,8 @@
 
 ---
 
+### YOU SHOULD HAVE A MANUS API KEY
+
 ## ✨ What It Does
 
 *   🤖 **Plan B AI Generator:** Machine busy? Input the occupied equipment and instantly get a personalized alternative matched to your profile, injuries, and available gear. Earn +30 XP per alternative.
